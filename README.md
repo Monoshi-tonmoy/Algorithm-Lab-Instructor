@@ -1,1 +1,1 @@
-Conductoed CSE 206 (Algorithms Lab) at the Green University of Bangladesh.
+Conducted CSE 206(Algorithms Lab) at the Green University of Bangladesh.
